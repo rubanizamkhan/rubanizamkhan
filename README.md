@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
 
 
