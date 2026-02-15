@@ -19,7 +19,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rubanizamkhan&color=blue)
 
-![Snake animation](https://github.com/rubanizamkhan/rubanizamkhan/blob/output/github-contribution-grid-snake.svg)
+<!--[Snake animation](https://github.com/rubanizamkhan/rubanizamkhan/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://raw.githubusercontent.com/rubanizamkhan/rubanizamkhan/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!--## 📊 GitHub Stats
