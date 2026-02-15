@@ -6,7 +6,7 @@
 
 💻 CSE Student  
 🌱 Currently learning: Java, Python, DSA <br>
-🚀 Interested in: Cybersecurity & AI  
+🚀 Interested in: Cybersecurity & AI <br>
 
 ---
 
