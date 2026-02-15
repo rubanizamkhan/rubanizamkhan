@@ -19,6 +19,28 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rubanizamkhan&color=blue)
 
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rubanizamkhan
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <!--[Snake animation](https://github.com/rubanizamkhan/rubanizamkhan/blob/output/github-contribution-grid-snake.svg)-->
 ![Snake animation](https://raw.githubusercontent.com/rubanizamkhan/rubanizamkhan/output/github-contribution-grid-snake.svg)
 
