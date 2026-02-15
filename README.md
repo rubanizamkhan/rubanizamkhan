@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
-<img src="Pixel-Coding-Sticker.gif" width="100%">
+<img src="Pixel Coding Sticker.gif" width="100%">
 
 
 💻 CSE Student  
@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Skills I'm Learning
-- Jav
+- Java
 - Python
 - HTML
 - Git & GitHub
