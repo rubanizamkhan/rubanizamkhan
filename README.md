@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
 
 
@@ -20,7 +20,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=rubanizamkhan&color=blue)
 
 
-name: Generate Snake
+<!--name: Generate Snake
 
 on:
   schedule:
@@ -41,8 +41,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!--[Snake animation](https://github.com/rubanizamkhan/rubanizamkhan/blob/output/github-contribution-grid-snake.svg)-->
-![Snake animation](https://raw.githubusercontent.com/rubanizamkhan/rubanizamkhan/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/rubanizamkhan/rubanizamkhan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rubanizamkhan/rubanizamkhan/output/github-contribution-grid-snake.svg)-->
 
 
 
