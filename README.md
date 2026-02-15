@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Ruba;CSE+Student;Learning+Java+%26+DSA;Future+Cybersecurity+Engineer)](https://git.io/typing-svg)
+
 
 
 💻 CSE Student  
@@ -15,11 +17,13 @@
 
 ---
 
-## 📊 GitHub Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=rubanizamkhan&color=blue)
+
+<!--## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubanizamkhan&show_icons=true)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)-->
 
 
 
