@@ -76,7 +76,7 @@
 
 # 💬 Quote  
 
-> **“Design is intelligence made visible.”** 
+> **“Programs are thoughts translated into machines.”** 
 
 
 
